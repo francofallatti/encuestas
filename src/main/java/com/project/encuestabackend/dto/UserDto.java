@@ -10,6 +10,8 @@ import javax.validation.constraints.Size;
 @Data
 public class UserDto {
 
+    private Long id;
+
     @NotEmpty
     private String name;
 

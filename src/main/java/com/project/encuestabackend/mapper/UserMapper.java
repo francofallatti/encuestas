@@ -1,4 +1,4 @@
-package com.project.encuestabackend.mappers;
+package com.project.encuestabackend.mapper;
 
 import com.project.encuestabackend.dto.UserDto;
 import com.project.encuestabackend.entites.UserEntity;
